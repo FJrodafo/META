@@ -6,7 +6,8 @@
 
 1. [Introduction](#introduction)
 2. [Setup](#setup)
-3. [WordPress](#wordpress)
+3. [Hosts Configuration](#hosts-configuration)
+4. [WordPress](#wordpress)
 
 ## Introduction
 
@@ -26,6 +27,14 @@ Copy `.env.example` to `.env` and fill the credentials:
 cp .env.example .env
 ```
 
+## Hosts Configuration
+
+To access WordPress with a custom local domain, add the following line to your `/etc/hosts` file:
+
+```conf
+127.0.0.1	metachannelcorp.com
+```
+
 ## WordPress
 
 Start the container:
@@ -36,9 +45,9 @@ docker compose up -d
 
 > [!NOTE]
 > 
-> WordPress: http://localhost:8080
+> WordPress: http://metachannelcorp.com
 > 
-> phpMyAdmin: http://localhost:8081
+> phpMyAdmin: http://metachannelcorp.com:8080
 
 Stop the container:
 
