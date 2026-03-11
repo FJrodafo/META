@@ -7,8 +7,6 @@
 1. [Introduction](#introduction)
 2. [Setup](#setup)
 3. [WordPress](#wordpress)
-    1. [Start](#start)
-    2. [Stop](#stop)
 
 ## Introduction
 
@@ -30,8 +28,6 @@ cp .env.example .env
 
 ## WordPress
 
-### Start
-
 Start the container:
 
 ```shell
@@ -43,8 +39,6 @@ docker compose up -d
 > WordPress: http://localhost:8080
 > 
 > phpMyAdmin: http://localhost:8081
-
-### Stop
 
 Stop the container:
 
