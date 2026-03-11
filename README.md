@@ -1,5 +1,7 @@
 <div align="center">
-    <img alt="META" width="100" src="./assets/META.webp">
+    <a href="https://metachannelcorp.com">
+        <img alt="META" width="100" src="./assets/META.webp">
+    </a>
 </div>
 
 ## Index
