@@ -10,6 +10,8 @@
 2. [Setup](#setup)
 3. [Hosts Configuration](#hosts-configuration)
 4. [WordPress](#wordpress)
+    1. [Start](#start)
+    2. [Stop](#stop)
 
 ## Introduction
 
@@ -39,7 +41,7 @@ To access WordPress with a custom local domain, add the following line to your `
 
 ## WordPress
 
-Start the container:
+### Start
 
 ```shell
 docker compose up -d
@@ -51,7 +53,7 @@ docker compose up -d
 > 
 > phpMyAdmin: http://metachannelcorp.com:8080
 
-Stop the container:
+### Stop
 
 ```shell
 docker compose down
