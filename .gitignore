@@ -1,8 +1,2 @@
-wordpress/*
-!wordpress/wp-content/
-
-wordpress/wp-content/uploads/
-wordpress/wp-config.php
-wordpress/.htaccess
-
+# Secrets
 .env
