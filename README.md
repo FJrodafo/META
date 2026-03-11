@@ -36,7 +36,8 @@ cp .env.example .env
 To access WordPress with a custom local domain, add the following line to your `/etc/hosts` file:
 
 ```conf
-127.0.0.1	metachannelcorp.com
+127.0.0.1	metachannelcorp.com	metachannelcorp.ie
+127.0.0.1	metachannelcorporation.com	metachannelcorporation.ie
 ```
 
 ## WordPress
