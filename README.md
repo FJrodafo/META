@@ -3,6 +3,18 @@
         <img alt="META" width="100" src="https://raw.githubusercontent.com/FJrodafo/META/refs/heads/main/assets/META.webp">
     </a>
 </div>
+<br />
+<div align="center">
+
+[![▲Vercel](https://img.shields.io/website?url=https://fjrodafo-portfolio.vercel.app/&style=flat&label=▲Vercel&labelColor=000000&color=000000)](https://metachannelcorp.vercel.app/)
+[![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/META?style=social&logo=github&logoColor=000000&label=Stars&labelColor=ffffff&color=ffffff)](https://github.com/FJrodafo/META/stargazers)
+
+[![PageSpeed Insights](https://img.shields.io/badge/PageSpeed_Insights-96-00cc66?style=flat&logo=pagespeedinsights&labelColor=ffffff)](https://pagespeed.web.dev/analysis/https-metachannelcorp-vercel-app/e3bvriqawf?form_factor=desktop)
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/fjrodafo/meta?style=flat&logo=docker&logoColor=ffffff&label=Pulls&labelColor=2560FF&color=2560FF)](https://hub.docker.com/r/fjrodafo/meta)
+[![Image Size](https://img.shields.io/docker/image-size/fjrodafo/meta?style=flat&logo=docker&logoColor=ffffff&label=Size&labelColor=2560FF&color=2560FF)](https://hub.docker.com/r/fjrodafo/meta)
+
+</div>
 
 ## Index
 
