@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://metachannelcorp.com">
+    <a href="https://metachannelcorp.vercel.app/">
         <img alt="META" width="100" src="https://raw.githubusercontent.com/FJrodafo/META/refs/heads/main/assets/META.webp">
     </a>
 </div>
