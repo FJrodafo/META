@@ -19,15 +19,39 @@
 ## Index
 
 1. [Introduction](#introduction)
-2. [Setup](#setup)
-3. [Hosts Configuration](#hosts-configuration)
-4. [WordPress](#wordpress)
+2. [Project Structure](#project-structure)
+3. [Setup](#setup)
+4. [Hosts Configuration](#hosts-configuration)
+5. [WordPress](#wordpress)
     1. [Start](#start)
     2. [Stop](#stop)
 
 ## Introduction
 
 A simple Docker Compose setup for WordPress!
+
+## Project Structure
+
+<details>
+<summary>Click me!</summary>
+
+```
+App/
+├── assets/
+│   └── META.webp
+├── nginx/
+│   ├── conf.d/
+│   │   └── default.config
+│   └── Dockerfile
+├── wordpress/
+│   ├── .../
+│   │   └── ...
+│   └── index.html
+├── .env
+├── .env.example
+└── docker-compose.yaml
+```
+</details>
 
 ## Setup
 
