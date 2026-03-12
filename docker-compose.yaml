@@ -19,7 +19,7 @@ services:
       timeout: 5s
       retries: 10
       start_period: 60s
-  #PHPMyAdmin
+  #phpMyAdmin
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     container_name: meta_pma
@@ -51,7 +51,7 @@ services:
       - wpsite
     volumes:
       - wp_data:/var/www/html
-  # Nginx (Reverse Proxy)
+  # Nginx
   nginx:
     image: nginx:alpine
     container_name: meta_nx
