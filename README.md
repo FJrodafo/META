@@ -15,7 +15,7 @@
 
 ## Introduction
 
-A simple Docker Compose setup for **MySQL + phpMyAdmin + WordPress**.
+A simple Docker Compose setup for **Docker + WordPress**.
 
 ## Setup
 
