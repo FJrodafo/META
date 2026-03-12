@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://metachannelcorp.com">
-        <img alt="META" width="100" src="./assets/META.webp">
+        <img alt="META" width="100" src="https://raw.githubusercontent.com/FJrodafo/META/refs/heads/main/assets/META.webp">
     </a>
 </div>
 
