@@ -1,10 +1,4 @@
-<div align="center">
-    <a href="https://metachannelcorp.vercel.app/">
-        <img alt="META" width="100" src="https://raw.githubusercontent.com/FJrodafo/META/refs/heads/main/assets/META.webp">
-    </a>
-</div>
-<br />
-<div align="center">
+# META Channel Corporation
 
 [![▲Vercel](https://img.shields.io/website?url=https://fjrodafo-portfolio.vercel.app/&style=flat&label=▲Vercel&labelColor=000000&color=000000)](https://metachannelcorp.vercel.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/META?style=social&logo=github&logoColor=000000&label=Stars&labelColor=ffffff&color=ffffff)](https://github.com/FJrodafo/META/stargazers)
@@ -13,8 +7,6 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/fjrodafo/meta?style=flat&logo=docker&logoColor=ffffff&label=Pulls&labelColor=2560FF&color=2560FF)](https://hub.docker.com/r/fjrodafo/meta)
 [![Image Size](https://img.shields.io/docker/image-size/fjrodafo/meta?style=flat&logo=docker&logoColor=ffffff&label=Size&labelColor=2560FF&color=2560FF)](https://hub.docker.com/r/fjrodafo/meta)
-
-</div>
 
 ## Index
 
