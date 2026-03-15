@@ -1,8 +1,8 @@
+# Releases
+/releases/v*
+
 # Secrets
 .env
 
 # Vercel
-.vercel
-
-# Releases
-/releases/v*
+/.vercel
