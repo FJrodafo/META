@@ -1,5 +1,6 @@
 # Releases
-/releases/v*
+/releases/*
+!releases/VERSION.md
 
 # Secrets
 .env
