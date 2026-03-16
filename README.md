@@ -22,10 +22,8 @@
 
 A simple Docker Compose setup for WordPress!
 
-## Project Structure
-
 <details>
-<summary>Click me!</summary>
+<summary>Project structure</summary>
 
 ```
 App/
@@ -40,7 +38,6 @@ App/
 │   │   └── ...
 │   └── index.html
 ├── .env
-├── .env.example
 └── docker-compose.yaml
 ```
 </details>
