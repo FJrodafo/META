@@ -5,7 +5,7 @@
 # https://metachannelcorp.vercel.app/
 
 services:
-  # Database
+  # MySQL
   db:
     image: mysql:8.0
     container_name: meta_db
