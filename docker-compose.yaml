@@ -2,10 +2,10 @@
 # Explore more gists by Francisco José Rodríguez Afonso at https://gist.github.com/FJrodafo
 
 # META Channel Corporation
-# https://metachannelcorp.vercel.app/
+# http://metachannelcorp.com/
 
 services:
-  # Database
+  # MySQL
   db:
     image: mysql:8.0
     container_name: meta_db

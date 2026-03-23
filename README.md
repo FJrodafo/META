@@ -27,8 +27,6 @@ A simple Docker Compose setup for WordPress!
 
 ```
 App/
-├── assets/
-│   └── META.webp
 ├── nginx/
 │   ├── conf.d/
 │   │   └── default.config
