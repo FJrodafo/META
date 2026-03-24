@@ -68,14 +68,14 @@ To access WordPress with a custom local domain, add the following line to your `
 ### Start
 
 ```shell
-docker compose up -d
+docker compose up -d --build
 ```
 
 > [!NOTE]
 > 
-> WordPress: http://metachannelcorp.com
+> WordPress: [http://metachannelcorp.com](http://metachannelcorp.com)
 > 
-> phpMyAdmin: http://metachannelcorp.com:8080
+> phpMyAdmin: [http://metachannelcorp.com:8080](http://metachannelcorp.com:8080)
 
 ### Stop
 
