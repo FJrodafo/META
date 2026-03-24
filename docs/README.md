@@ -1,4 +1,6 @@
-# META Channel Corporation
+# META
+
+META Channel Corporation
 
 [![▲Vercel](https://img.shields.io/website?url=https://fjrodafo-portfolio.vercel.app/&style=flat&label=▲Vercel&labelColor=000000&color=000000)](https://metachannelcorp.vercel.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/META?style=social&logo=github&logoColor=000000&label=Stars&labelColor=ffffff&color=ffffff)](https://github.com/FJrodafo/META/stargazers)
