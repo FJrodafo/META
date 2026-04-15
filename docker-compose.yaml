@@ -1,9 +1,3 @@
-# This script is available on GitHub Gist at https://gist.github.com/FJrodafo/7e21099ac05705d09f70ee5e57e82d96
-# Explore more gists by Francisco José Rodríguez Afonso at https://gist.github.com/FJrodafo
-
-# META Channel Corporation
-# http://metachannelcorp.com/
-
 services:
   # MySQL
   db:
