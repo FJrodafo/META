@@ -1,16 +1,28 @@
 # Git
-/.git
-.gitattributes
-.gitignore
+/.git/
+/.gitattributes
+/.gitignore
 
 # GitHub
-/.github
+/.github/
 
 # Vercel
-/.vercel
+/.vercel/
 
 # VSCode
-/.vscode
+/.vscode/
 
-# Releases
-/releases
+# Documents
+/docs/
+
+# WordPress
+/wordpress/
+
+# Secrets
+/.env
+/.env.*
+
+# Docker
+/nginx/Dockerfile
+/.dockerignore
+/docker-compose.yaml
