@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: META
+description: A simple Docker setup for WordPress!
+show_downloads: true
