@@ -54,6 +54,7 @@ services:
       - meta_wp_network
     volumes:
       - meta_wp_data:/var/www/html
+      - ./php/custom.ini:/usr/local/etc/php/conf.d/custom.ini
     restart: unless-stopped
   # Nginx
   nginx:
