@@ -132,23 +132,3 @@ Stop the Container:
 ```shell
 docker compose down
 ```
-
-### Build & Push (Ignore this subsection)
-
-```shell
-docker build \
-  -t ghcr.io/fjrodafo/meta-wp-nginx:1 \
-  -t ghcr.io/fjrodafo/meta-wp-nginx:1.0 \
-  -t ghcr.io/fjrodafo/meta-wp-nginx:1.0.0 \
-  -t ghcr.io/fjrodafo/meta-wp-nginx:latest \
-  -t fjrodafo/meta-wp-nginx:1.0.0 \
-  -t fjrodafo/meta-wp-nginx:latest \
-  ./nginx
-
-docker push ghcr.io/fjrodafo/meta-wp-nginx:1
-docker push ghcr.io/fjrodafo/meta-wp-nginx:1.0
-docker push ghcr.io/fjrodafo/meta-wp-nginx:1.0.0
-docker push ghcr.io/fjrodafo/meta-wp-nginx:latest
-docker push fjrodafo/meta-wp-nginx:1.0.0
-docker push fjrodafo/meta-wp-nginx:latest
-```
